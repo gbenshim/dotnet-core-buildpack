@@ -1,0 +1,4 @@
+---
+  applications:
+    - name: self_contained
+      disk_quota: 1536M

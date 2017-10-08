@@ -1,0 +1,4 @@
+---
+  applications:
+    - name: multiple_projects_msbuild
+      disk_quota: 1536M

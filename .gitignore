@@ -1,0 +1,4 @@
+dependencies/
+dotnet-core_buildpack-*.zip
+log/
+/.bin/
